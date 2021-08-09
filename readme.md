@@ -1,1 +1,0 @@
-# Gary Tate CV

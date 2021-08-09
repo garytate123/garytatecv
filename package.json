@@ -1,0 +1,35 @@
+{
+  "name": "cv-online",
+  "version": "1.0.0",
+  "description": "Gary Tate's Online CV",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garytate123/Online-CV-Website.git"
+  },
+  "keywords": [
+    "Gary",
+    "Tate",
+    "Web",
+    "Development",
+    "Online",
+    "CV"
+  ],
+  "author": "Gary Tate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garytate123/Online-CV-Website/issues"
+  },
+  "homepage": "https://github.com/garytate123/Online-CV-Website#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
