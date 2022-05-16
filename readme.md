@@ -1,2 +1,2 @@
 Test git remote push from linux machine
-vmachine
+This is a new line
